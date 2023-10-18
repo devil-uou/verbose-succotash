@@ -5,7 +5,7 @@ obj.data = {
       {
         "id" : 731,
         "tab_id" : "直播tab",
-        "name" : "呵呵",
+        "name" : "恭喜",
         "uri" : "bilibili:\/\/live\/home",
         "pos" : 1
       },
@@ -13,7 +13,7 @@ obj.data = {
         "id" : 477,
         "tab_id" : "推荐tab",
         "default_selected" : 1,
-        "name" : "哈哈",
+        "name" : "发财",
         "uri" : "bilibili:\/\/pegasus\/promo",
         "pos" : 2
       },
@@ -27,14 +27,14 @@ obj.data = {
       {
         "id" : 101,
         "tab_id" : "bangumi",
-        "name" : "动画",
+        "name" : "嘿嘿",
         "uri" : "bilibili:\/\/pgc\/home",
         "pos" : 4
       },
       {
         "id" : 151,
         "tab_id" : "film",
-        "name" : "影视",
+        "name" : "哈哈",
         "uri" : "bilibili:\/\/pgc\/cinema-tab",
         "pos" : 5
       }
